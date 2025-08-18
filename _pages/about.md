@@ -9,11 +9,11 @@ redirect_from:
 
 I am a PhD student at National University of Singapore, advised by Prof. See-Kiong Ng and Prof. Bryan Low. My research lies in LLMs' post-training stage optimization, including data, model, prompt, and compute.
 
-News
-======
+## News
+
 (Coming Soon!)
 
 
-Contact
-======
+## Contact
+
 You are very welcome to contact me regarding my research and job opportunities. I can be contacted directly at **wenyang.hu**[@]**u.nus.edu**
