@@ -32,15 +32,13 @@ author:
   email            : "wenyang.hu[@]u.nus.edu" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  orcid            : "http://orcid.org/yourorcidurl"
+  googlescholar    : "https://scholar.google.com/citations?user=EecZzYsAAAAJ&hl=en"
 
   # Repositories and software development
   github           : "www.github.com/allen4747"  
 
   # Social media
-  telegram         : # URL
-  twitter          : # Username for X / Twitter
+  twitter          : _Hu_Wenyang # Username for X / Twitter
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
